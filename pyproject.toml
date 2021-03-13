@@ -7,6 +7,7 @@ authors = ["Ryan Skinner <rskinner593@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.7"
 jupyterlab = "^3.0.10"
+yfinance = "^0.1.55"
 
 [tool.poetry.dev-dependencies]
 
